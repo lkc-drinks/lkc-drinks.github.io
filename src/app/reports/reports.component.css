@@ -1,0 +1,26 @@
+p{
+    color: #fff;
+    font-size: x-large;
+}
+.custom-container {
+    height: 100vh;
+    background-image: url('/assets/barrels.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to make it visible on the background */
+    padding: 20px;
+}
+
+.bottom-element {
+    position: fixed;
+    left: 0;
+    bottom: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.images{
+    box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
+    -webkit-box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
+    -moz-box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
+}

@@ -1,0 +1,51 @@
+[  
+  {  
+    "id": 1,
+    "avatar": "smoke",  
+    "question": "Wild Bird questions",  
+    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  },
+  {  
+    "id": 2,
+    "avatar": "smoke",   
+    "question": "You stumble upon a dusty old distillery with a hidden secret: the opportunity to infuse your smoky whisky with a unique smoky element. Whose method would you follow?",  
+    "answer1": "A) Sherlock Holmes, the master of deduction, who would find the perfect pipe-smoke infusion.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  },  
+  {  
+    "id": 3, 
+    "avatar": "smoke", 
+    "question": "You're planning a meal to complement your smoky whisky. What type of dish would you choose?",  
+    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  },  
+  {  
+    "id": 4,  
+    "avatar": "smoke", 
+    "question": "When it comes to enjoying a smoky whisky, which sensation do you seek?",  
+    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  },  
+  {  
+    "id": 5,  
+    "avatar": "smoke", 
+    "question": "You're presented with two unique smoky whisky experiences inspired by the presence of Gandalf the Grey and the charm of Aragorn, the ranger. Which intrigues you more?",  
+    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  },  
+  {  
+    "id": 6,  
+    "avatar": "smoke", 
+    "question": "How do you describe the sound of pouring whisky into a glass?",  
+    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
+    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
+    "answer3": "C. Al Capone, the notorious gangster"
+  }  
+
+]  

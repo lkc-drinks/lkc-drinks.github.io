@@ -1,0 +1,19 @@
+<div style="background-color: burlywood; height: 100vh;">
+    <div class="image-container">
+        <img class='img' src="\assets\655.jpg" alt="" style="height: 250px; width: 250px; border-radius: 50%">
+    </div>
+    <div style="position: fixed; bottom: 0px;">
+        <div class="question"><strong>{{questionStep}}.</strong>{{question}}</div>
+        <div class="wrapper" style="background-color: grey;">
+            <div>
+                <button class="answers btn" (click)="submitAnswer(1)">{{answer1}}</button>
+            </div>
+            <div>
+                <button class="answers btn" (click)="submitAnswer(2)">{{answer2}}</button>
+            </div>
+            <div>
+                <button class="answers btn" (click)="submitAnswer(3)">{{answer3}}</button>
+            </div>
+        </div>
+    </div>
+</div>

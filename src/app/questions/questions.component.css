@@ -1,0 +1,23 @@
+.wrapper {
+    text-align: center;
+    padding: 50px 50px 40px 50px;
+    border-radius: 20px 20px 0 0;
+}
+
+.answers {
+    height: 80px;
+    width: 100%;
+    background-color: #FF9999;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    white-space: normal;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+}
+
+.question{
+    font-size: 24px;
+    color: white;
+    padding: 20px 20px;
+}

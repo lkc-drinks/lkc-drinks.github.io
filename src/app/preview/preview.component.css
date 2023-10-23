@@ -1,0 +1,19 @@
+.custom-container {
+    height: 100vh;
+    background-image: url('/assets/barrels2.jpg');
+    /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-size: 24px;
+    /* Set text color to make it visible on the background */
+    padding: 20px 20px;
+    display: block;
+    align-items: center;
+}
+.textaki{
+    padding: 25px 0px;
+    margin-bottom: 20px;
+    max-height: 80vh;
+    overflow-y: scroll;
+}

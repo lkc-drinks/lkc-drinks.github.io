@@ -1,0 +1,24 @@
+p{
+    color: #fff;
+    font-size: x-large;
+}
+.custom-container {
+    height: 100vh;
+    background-image: url('/assets/barrels.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to make it visible on the background */
+    padding: 20px;
+}
+
+.bottom-element {
+    position: fixed;
+    left: 0;
+    bottom: 15%;
+    width: 100%;
+    text-align: center;
+}
+
+.btn{
+    font-weight: bold;
+}
