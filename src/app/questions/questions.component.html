@@ -1,6 +1,6 @@
 <div style="background-color: burlywood; height: 100vh;">
     <div class="image-container">
-        <img class='img' src="\assets\655.jpg" alt="" style="height: 250px; width: 250px; border-radius: 50%">
+        <img class='img' [src]="findPic()" alt="" style="height: 250px; width: 250px; border-radius: 50%">
     </div>
     <div style="position: fixed; bottom: 0px;">
         <div class="question"><strong>{{questionStep}}.</strong>{{question}}</div>

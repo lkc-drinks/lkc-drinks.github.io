@@ -26,6 +26,9 @@ export class QuestionsComponent {
     this.fetchQuestions();
   }
 
+  findPic(){
+    return "/assets/"+this.avatarChosen+".jpg"; 
+  }
   private fetchQuestions(){
     this.avatarChosen=this.route.snapshot.params['id'];
     if(this.avatarChosen==1){
@@ -60,7 +63,7 @@ export class QuestionsComponent {
       console.log("question step: "+this.questionStep);
       this.nextQuestion(this.questionStep);
     }else{
-      this.router.navigate(['/reports'])
+      this.router.navigate(['/reports/'+this.avatarChosen+"/"+id])
     }
       this.questionStep=this.questionStep+1;
   }

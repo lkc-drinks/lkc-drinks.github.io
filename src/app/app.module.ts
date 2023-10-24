@@ -19,6 +19,7 @@ const appRoutes: Routes=[
   { path:'questions', component: QuestionsComponent },
   { path:'questions/:id', component: QuestionsComponent},
   { path:'reports', component: ReportsComponent },
+  { path:'reports/:avatarChosen/:id', component: ReportsComponent },
   { path:'finalReport', component: FinalReportComponent }
 ];
 
