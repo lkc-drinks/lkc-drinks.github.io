@@ -21,4 +21,7 @@ p{
 
 .btn{
     font-weight: bold;
+    font-family: NeutraBook;
+    border-radius: 40px;
+    font-size: 18px;
 }

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: NeutraTittle;
+    font-weight: bold;
+    src: url("/assets/fonts/NeutraDisplay-Titling.otf") format("opentype");
+}
+
+
+@font-face {
+    font-family: NeutraBook;
+    src: url("/assets/fonts/Neutra2TextGreek-Book.otf") format("opentype");
+}

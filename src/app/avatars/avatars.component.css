@@ -1,36 +1,58 @@
-a{
-    color: #fff;
-    font-size: 15px;
-}
 .custom-container {
     height: 100vh;
-    background-image: url('/assets/barrels2.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-image: url('/assets/barrels2.jpg');
+    /* Replace 'your-image.jpg' with your image file path */
     background-size: cover;
     background-position: center;
-    color: #fff; /* Set text color to make it visible on the background */
-    padding: 20px;
+    color: #fff;
+    /* Set text color to make it visible on the background */
+    padding-top: 20px;
 }
-a{
-    margin-left: 50px;
+
+a {
+    margin-left: 20px;
     color: #fff;
     background-color: black;
-    padding: 10px;
-}
-.image-container {
-    position: relative;
-    overflow: hidden;
-}
-
-.image-container img {
-    transition: opacity 0.3s;
+    font-family: NeutraBook;
+    font-size: 24px;
+    width: fit-content;
+    padding: 0 20px;
 }
 
-.image-container:hover img {
-    opacity: 0.7; /* Adjust the opacity level for the fade effect */
+.images {
+    box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
+    -webkit-box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
+    -moz-box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%
 }
 
-.images{
-    box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
-    -webkit-box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
-    -moz-box-shadow: 10px 10px 16px -7px rgba(255,255,255,0.75);
+.container {
+    margin-top: 40px;
+    margin-left: 40px;
+    max-height: 80vh;
+    overflow-y: scroll;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+@media (max-width:350px) {
+    .container{
+        margin: 40px 0 0;
+    }
+    .container .row{
+        text-align: center;
+    }
+    a{
+        margin: 0 auto;
+    }
+    a,img{
+        display: block;
+    }
+    img{
+        margin: 0 auto 10px auto;
+    }
 }
