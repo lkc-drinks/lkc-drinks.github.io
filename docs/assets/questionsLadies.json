@@ -1,51 +1,45 @@
 [  
   {  
-    "id": 1,
-    "avatar": "smoke",  
-    "question": "Ladies Questions",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 1,  
+    "question": "Choose an outﬁt for a themed gin-tasting event:",  
+    "answer1": "A. An elegant ensemble with a touch of tradition.",  
+    "answer2": "B. A rustic and natural look inspired by the outdoors.",
+    "answer3": "C. An eclectic and vibrant outﬁt that reﬂects your creativity."
   },
   {  
-    "id": 2,
-    "avatar": "smoke",   
-    "question": "You stumble upon a dusty old distillery with a hidden secret: the opportunity to infuse your smoky whisky with a unique smoky element. Whose method would you follow?",  
-    "answer1": "A) Sherlock Holmes, the master of deduction, who would find the perfect pipe-smoke infusion.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 2,   
+    "question": "What's your secret for savoring the perfect gin experience?",  
+    "answer1": "A. Appreciating the simplicity of a well-made gin and tonic.",  
+    "answer2": "B. Exploring the depths of gin's botanical world.",
+    "answer3": "C. Embracing the art of crafting and enjoying inventive gin cocktails."
   },  
   {  
-    "id": 3, 
-    "avatar": "smoke", 
-    "question": "You're planning a meal to complement your smoky whisky. What type of dish would you choose?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 3,  
+    "question": "If you could share a gin experience with a famous woman from history, who would it be?",  
+    "answer1": "A. Audrey Hepburn, the embodiment of timeless elegance.",  
+    "answer2": "B. Maria Callas, the 20th-century Greek classic.",
+    "answer3": "C. Coco Chanel, the visionary fashion icon."
   },  
   {  
-    "id": 4,  
-    "avatar": "smoke", 
-    "question": "When it comes to enjoying a smoky whisky, which sensation do you seek?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 4,   
+    "question": "What's your secret for fully enjoying the perfect gin experience?",  
+    "answer1": "A. A classic G’n’T",  
+    "answer2": "B. A gin Martini, with a Greek olive",
+    "answer3": "C. A Negroni, all night long"
   },  
   {  
-    "id": 5,  
-    "avatar": "smoke", 
-    "question": "You're presented with two unique smoky whisky experiences inspired by the presence of Gandalf the Grey and the charm of Aragorn, the ranger. Which intrigues you more?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 5,   
+    "question": "When you think of your favorite gin experience, what scents come to mind?",  
+    "answer1": "A. Crisp and refreshing fragrances that evoke nostalgia.",  
+    "answer2": "B. Earthy and herbal notes that stimulate the senses.",
+    "answer3": "C. Vibrant and captivating scents that spark creativity."
   },  
   {  
-    "id": 6,  
-    "avatar": "smoke", 
-    "question": "How do you describe the sound of pouring whisky into a glass?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 6,   
+    "question": "You're planning a menu for your gin party. What type of food would perfectly complement your chosen gin style?",  
+    "answer1": "A. Classic, timeless dishes that everyone loves.",  
+    "answer2": "B. Culinary creations infused with aromatic elements.",
+    "answer3": "C. Inventive and unexpected bites that excite the palate."
   }  
 
 ]  

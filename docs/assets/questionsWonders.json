@@ -1,51 +1,45 @@
 [  
   {  
-    "id": 1,
-    "avatar": "smoke",  
-    "question": "Wonders questions",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 1,  
+    "question": "You stumble upon a hidden gin distillery in an old castle, straight out of a fairy tale. What's your ﬁrst reaction?",  
+    "answer1": "A. Sip it straight, savoring the botanical magic.",  
+    "answer2": "B. Mix it with tonic for a classic G&T.",
+    "answer3": "C. Add a splash of citrus for a refreshing twist."
   },
   {  
-    "id": 2,
-    "avatar": "smoke",   
-    "question": "You stumble upon a dusty old distillery with a hidden secret: the opportunity to infuse your smoky whisky with a unique smoky element. Whose method would you follow?",  
-    "answer1": "A) Sherlock Holmes, the master of deduction, who would find the perfect pipe-smoke infusion.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 2,   
+    "question": "You're embarking on a gin adventure. Which fantastical destination would you choose?",  
+    "answer1": "A. A mystical gin garden within the castle grounds.",  
+    "answer2": "B. A seaside bar with gin cocktails and ocean views.",
+    "answer3": "C. A glamorous 1920s speakeasy, where gin rules supreme."
   },  
   {  
-    "id": 3, 
-    "avatar": "smoke", 
-    "question": "You're planning a meal to complement your smoky whisky. What type of dish would you choose?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 3,  
+    "question": "You're about to embark on a gin-themed journey. What type of destination would be your top choice?",  
+    "answer1": "A. A place known for its rich and historical gin heritage.",  
+    "answer2": "B. A location teeming with nature and herbal treasures.",
+    "answer3": "C. A vibrant and creative hub where ﬂavors come to life."
   },  
   {  
-    "id": 4,  
-    "avatar": "smoke", 
-    "question": "When it comes to enjoying a smoky whisky, which sensation do you seek?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 4,   
+    "question": "If you could have a gin-inspired enchantment cast upon you by a forest fairy, what would it be?",  
+    "answer1": "A. A timeless charm that makes your gin taste richer with every sip.",  
+    "answer2": "B. An ability to commune with the magical creatures while you drink.",
+    "answer3": "C. The power to create fabulous gin cocktails with a wave of your hand."
   },  
   {  
-    "id": 5,  
-    "avatar": "smoke", 
-    "question": "You're presented with two unique smoky whisky experiences inspired by the presence of Gandalf the Grey and the charm of Aragorn, the ranger. Which intrigues you more?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 5,   
+    "question": "Share your go-to gin motto:",  
+    "answer1": "A. Juniper knows best, so why mess with perfection?",  
+    "answer2": "B. Rocks make everything cooler, even gin.",
+    "answer3": "C. Life's a cocktail, so sip it up with gin in hand!"
   },  
   {  
-    "id": 6,  
-    "avatar": "smoke", 
-    "question": "How do you describe the sound of pouring whisky into a glass?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 6,   
+    "question": "If you were to create your own unique gin infusion, what natural element would you choose?",  
+    "answer1": "A. Traditional with a dominant juniper flavor.",  
+    "answer2": "B. A selection of aromatic herbs and spices.",
+    "answer3": "C. An unexpected and exciting twist of rare botanicals."
   }  
 
 ]  

@@ -1,51 +1,45 @@
 [  
   {  
-    "id": 1,
-    "avatar": "smoke",  
-    "question": "Wild Bird questions",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 1,  
+    "question": "If you had to steal an expensive bottle of Scotch from a character in pop culture, who would be your target?",  
+    "answer1": "A. Sherlock Holmes cause I’m not afraid of him.",  
+    "answer2": "B. Dr. House, to save him from his own addictions of course!",
+    "answer3": "C. Minerva McGonagall, cause she’d deﬁnitely ﬁnd me and I really want to meet her!"
   },
   {  
-    "id": 2,
-    "avatar": "smoke",   
-    "question": "You stumble upon a dusty old distillery with a hidden secret: the opportunity to infuse your smoky whisky with a unique smoky element. Whose method would you follow?",  
-    "answer1": "A) Sherlock Holmes, the master of deduction, who would find the perfect pipe-smoke infusion.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 2,   
+    "question": "In this enchanted world, what type of oak barrels do you believe are best for aging Scotch, promising adventures with every sip?",  
+    "answer1": "A. American oak for its vanilla and toffee notes.",  
+    "answer2": "B. European oak for its rich spiciness and intrigue.",
+    "answer3": "C. A combination of both for a journey with unexpected twists."
   },  
   {  
-    "id": 3, 
-    "avatar": "smoke", 
-    "question": "You're planning a meal to complement your smoky whisky. What type of dish would you choose?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 3,  
+    "question": "If you could share a glass of Scotch with a historical ﬁgure from the past, who would be your preferred companion on this whisky adventure?",  
+    "answer1": "A. Charles Darwin would have lots of interesting things to say!",  
+    "answer2": "B. Mary, Queen of Scots, this woman deserved a drink!",
+    "answer3": "C. Winston Churchill. I am not sure why I want that though."
   },  
   {  
-    "id": 4,  
-    "avatar": "smoke", 
-    "question": "When it comes to enjoying a smoky whisky, which sensation do you seek?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 4,   
+    "question": "Which Highland landscape view inspires your imagination and deﬁnes your Scotch adventure?",  
+    "answer1": "A. The purple heather-tinged hills and mountains.",  
+    "answer2": "B. The peace and tranquil of the Scottish lochs.",
+    "answer3": "C. Salmon leaping up the river."
   },  
   {  
-    "id": 5,  
-    "avatar": "smoke", 
-    "question": "You're presented with two unique smoky whisky experiences inspired by the presence of Gandalf the Grey and the charm of Aragorn, the ranger. Which intrigues you more?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 5,   
+    "question": "What message does Scotch whisky send to those who appreciate it, making it an essential part of your journey?",  
+    "answer1": "A. Time rewards patience with rich and enchanting ﬂavors.",  
+    "answer2": "B. It's a connection to history, carrying tales from the past.",
+    "answer3": "C. In a world that rushes, whisky reminds us to savor moments and cherish the company."
   },  
   {  
-    "id": 6,  
-    "avatar": "smoke", 
-    "question": "How do you describe the sound of pouring whisky into a glass?",  
-    "answer1": "A. Robert Burns, Scotland's beloved poet.",  
-    "answer2": "B. Mary Anning, the fossil-hunting pioneer.",
-    "answer3": "C. Al Capone, the notorious gangster"
+    "id": 6,   
+    "question": "How many years would you willingly wait for a Scotch to mature in a barrel? Your spirit knows that this quest is worth every second.",  
+    "answer1": "A. A decade, for the promise of discovery.",  
+    "answer2": "B. Two decades, in the pursuit of excellence.",
+    "answer3": "C. The longer the better because it’s all about the journey, not the destination."
   }  
 
 ]  
