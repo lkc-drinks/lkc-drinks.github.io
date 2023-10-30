@@ -20,12 +20,9 @@ a {
 }
 
 .images {
-    box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
-    -webkit-box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
-    -moz-box-shadow: 10px 10px 16px -7px rgba(255, 255, 255, 0.75);
+
     height: 120px;
     width: 120px;
-    border-radius: 50%
 }
 
 .container {

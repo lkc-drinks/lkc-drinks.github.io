@@ -1,13 +1,17 @@
+#main{
+   height: 100vh;
+}
+
 .wrapper {
     text-align: center;
     padding: 50px 50px 40px 50px;
     border-radius: 20px 20px 0 0;
+    background-color: #B0ACA9;
 }
 
 .answers {
     height: 80px;
     width: 100%;
-    background-color: #FF9999;
     margin-bottom: 20px;
     word-wrap: break-word;
     white-space: normal;

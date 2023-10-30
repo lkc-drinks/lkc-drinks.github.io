@@ -1,15 +1,16 @@
 <div class="container-fluid custom-container" style="text-align: center;">
     
     <img src="\assets\logo-lkc.png" alt="" style="height: 150px;margin-top: 50px;">
-    <h1 style="text-align: center; font-family: NeutraTittle;">QUIZZED,
-        <br>CURIOUS,
-        <br>WISE.
-    </h1>
-
+    <img src="\assets\liftYourSpirits.png" alt="" style="height: 100px;margin-top: 25px;">
 </div>
 <div class="bottom-element" >
     <button class="btn" routerLink="/preview">
       LET'S PLAY
-    
     </button>
 </div>
+<div *ngIf="isModalOpen" class="modal">
+    <div class="modal-content">
+      <h1>Continue if you are over 18</h1>
+      <button (click)="closeModal()">Agree</button>
+    </div>
+  </div>

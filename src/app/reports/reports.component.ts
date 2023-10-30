@@ -8,6 +8,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class ReportsComponent {
   avatarChosen: any;
+  id: any;
   constructor(
     private router: Router,
     private route: ActivatedRoute
@@ -15,10 +16,14 @@ export class ReportsComponent {
 
   }
   ngOnInit(){
-    this.avatarChosen=this.route.snapshot.params['id'];
+    this.id=this.route.snapshot.params['id'];
     this.avatarChosen=this.route.snapshot.params['avatarChosen'];
   }
   findPic(){
-    return "/assets/"+this.avatarChosen+".jpg"; 
+    return "/assets/"+this.avatarChosen+".png"; 
+  }
+
+  viewReport(){
+    this.router.navigate(['/finalReport/' + this.avatarChosen + this.id])
   }
 }

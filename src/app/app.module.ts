@@ -10,6 +10,8 @@ import {HttpClientModule} from '@angular/common/http';
 import { ReportsComponent } from './reports/reports.component';
 import { PreviewComponent } from './preview/preview.component';
 import { FinalReportComponent } from './final-report/final-report.component';
+import { MatDialogModule } from '@angular/material/dialog';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 const appRoutes: Routes=[
   { path:'', component: HomeComponent },
@@ -20,7 +22,8 @@ const appRoutes: Routes=[
   { path:'questions/:id', component: QuestionsComponent},
   { path:'reports', component: ReportsComponent },
   { path:'reports/:avatarChosen/:id', component: ReportsComponent },
-  { path:'finalReport', component: FinalReportComponent }
+  { path:'finalReport', component: FinalReportComponent },
+  { path:'finalReport/:reportId', component: FinalReportComponent }
 ];
 
 @NgModule({
@@ -36,7 +39,9 @@ const appRoutes: Routes=[
   imports: [
     BrowserModule,
     RouterModule.forRoot(appRoutes),
-    HttpClientModule
+    HttpClientModule,
+    MatDialogModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
