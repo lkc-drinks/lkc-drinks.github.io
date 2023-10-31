@@ -8,7 +8,7 @@ import { ActivatedRoute, Router } from '@angular/router';
   styleUrls: ['./final-report.component.css']
 })
 export class FinalReportComponent {
-  reportId: any;
+  reportId: string ="";
   url: string = "";
   reportData: any;
   title: string = "";
@@ -24,6 +24,9 @@ export class FinalReportComponent {
   ngOnInit() {
     this.reportId = this.route.snapshot.params['reportId'];
     this.fetchReport();
+  }
+  findPic() {
+    return "/assets/" + this.reportId.substring(0,1) + ".png";
   }
   private fetchReport() {
     this.url = "/assets/reports.json";
