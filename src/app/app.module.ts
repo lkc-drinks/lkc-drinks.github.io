@@ -12,11 +12,12 @@ import { PreviewComponent } from './preview/preview.component';
 import { FinalReportComponent } from './final-report/final-report.component';
 import { MatDialogModule } from '@angular/material/dialog';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 const appRoutes: Routes=[
   { path:'', component: HomeComponent },
-  { path:'home', component: HomeComponent },
-  { path:'preview', component: PreviewComponent },
+  { path:'#home', component: HomeComponent },
+  { path:'#preview', component: PreviewComponent },
   { path:'avatars', component: AvatarsComponent },
   { path:'questions', component: QuestionsComponent },
   { path:'questions/:id', component: QuestionsComponent},
@@ -43,7 +44,7 @@ const appRoutes: Routes=[
     MatDialogModule,
     BrowserAnimationsModule
   ],
-  providers: [],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
