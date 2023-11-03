@@ -1,29 +1,75 @@
 #main{
-   height: 100vh;
-}
+    height: 100vh;
+ }
+ 
+ .wrapper {
+     text-align: center;
+     padding: 4vh 50px 2vh 50px;
+     border-radius: 20px 20px 0 0;
+     background-color: #B0ACA9;
+ }
+ 
+ .answers {
+     height: 80px;
+     width: 100%;
+     margin-bottom: 20px;
+     word-wrap: break-word;
+     white-space: normal;
+     text-align: left;
+     color: white;
+     font-family: NeutraBook;
+     font-size: 16px;
+ }
+ 
+ .question{
+     font-family: NeutraBook;
+     font-size: 24px;
+     color: white;
+     padding: 3vh 20px;
+ }
+ .img{
+    width: 300px; 
+    height: 225px; 
+    right: -5px;
+    top: -5px;
+    position: fixed;
+ }
 
-.wrapper {
-    text-align: center;
-    padding: 50px 50px 40px 50px;
-    border-radius: 20px 20px 0 0;
-    background-color: #B0ACA9;
-}
-
-.answers {
-    height: 80px;
-    width: 100%;
-    margin-bottom: 20px;
-    word-wrap: break-word;
-    white-space: normal;
-    text-align: left;
-    color: white;
-    font-family: NeutraBook;
-    font-size: 16px;
-}
-
-.question{
-    font-family: NeutraBook;
-    font-size: 24px;
-    color: white;
-    padding: 20px 20px;
+@media (max-height:700px) {
+    #main{
+        height: 100vh;
+     }
+     
+     .wrapper {
+         text-align: center;
+         padding: 5vh 50px 2vh 50px;
+         border-radius: 20px 20px 0 0;
+         background-color: #B0ACA9;
+     }
+     
+     .answers {
+         height: 80px;
+         width: 100%;
+         margin-bottom: 20px;
+         word-wrap: break-word;
+         white-space: normal;
+         text-align: left;
+         color: white;
+         font-family: NeutraBook;
+         font-size: 16px;
+     }
+     
+     .question{
+         font-family: NeutraBook;
+         font-size: 22px;
+         color: white;
+         padding: 1vh 15px;
+     }
+     .img{
+        width: 220px; 
+        height: 165px; 
+        right: -5px;
+        top: -5px;
+        position: fixed;
+     }
 }
