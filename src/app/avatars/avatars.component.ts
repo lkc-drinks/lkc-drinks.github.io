@@ -14,6 +14,6 @@ export class AvatarsComponent {
   }
 
   chooseAvatar(id: number){
-    this.router.navigate(['/questions/'+id])
+    this.router.navigate(['/#questions/'+id])
   }
 }

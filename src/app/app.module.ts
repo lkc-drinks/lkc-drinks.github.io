@@ -18,13 +18,13 @@ const appRoutes: Routes=[
   { path:'', component: HomeComponent },
   { path:'#home', component: HomeComponent },
   { path:'#preview', component: PreviewComponent },
-  { path:'avatars', component: AvatarsComponent },
-  { path:'questions', component: QuestionsComponent },
-  { path:'questions/:id', component: QuestionsComponent},
-  { path:'reports', component: ReportsComponent },
-  { path:'reports/:avatarChosen/:id', component: ReportsComponent },
-  { path:'finalReport', component: FinalReportComponent },
-  { path:'finalReport/:reportId', component: FinalReportComponent }
+  { path:'#avatars', component: AvatarsComponent },
+  { path:'#questions', component: QuestionsComponent },
+  { path:'#questions/:id', component: QuestionsComponent},
+  { path:'#reports', component: ReportsComponent },
+  { path:'#reports/:avatarChosen/:id', component: ReportsComponent },
+  { path:'#finalReport', component: FinalReportComponent },
+  { path:'#finalReport/:reportId', component: FinalReportComponent }
 ];
 
 @NgModule({

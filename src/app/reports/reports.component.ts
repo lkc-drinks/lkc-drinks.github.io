@@ -24,6 +24,6 @@ export class ReportsComponent {
   }
 
   viewReport(){
-    this.router.navigate(['/finalReport/' + this.avatarChosen + this.id])
+    this.router.navigate(['/#finalReport/' + this.avatarChosen + this.id])
   }
 }

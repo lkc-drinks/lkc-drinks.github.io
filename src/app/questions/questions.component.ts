@@ -91,7 +91,7 @@ export class QuestionsComponent {
     if (this.questionStep < 6) {
       this.nextQuestion(this.questionStep);
     } else {
-      this.router.navigate(['/reports/' + this.avatarChosen + "/" + id])
+      this.router.navigate(['/#reports/' + this.avatarChosen + "/" + id])
     }
     this.questionStep = this.questionStep + 1;
   }
